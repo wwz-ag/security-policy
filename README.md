@@ -2,7 +2,7 @@
 
 WWZ AG is committed to maintaining the security and reliability of its services and infrastructure. If you believe you have discovered a security vulnerability, we encourage you to report it to us responsibly.
 
- **Contact:** security@wwz.ch
+ **Email:** [security@wwz.ch](mailto:security@wwz.ch)
  
 ## Please include where possible:
 - affected service, system or URL
