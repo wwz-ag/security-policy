@@ -10,8 +10,7 @@ WWZ AG is committed to maintaining the security and reliability of its services 
 -	reproduction steps
 -	potential impact
 -	optional proof-of-concept
-
-
+---
 ##**Scope**
 
 This policy applies to systems and services operated by WWZ AG and its affiliated companies, including:
@@ -20,8 +19,7 @@ This policy applies to systems and services operated by WWZ AG and its affiliate
 -	Telecom Cablenet AG
 
 Testing systems of customers, partners or third parties is not permitted.
-
-
+---
 ##**Expected Conduct**
 
 When conducting research, please:
@@ -34,7 +32,7 @@ When conducting research, please:
 -	do not conduct automated large-scale scanning or the like
 -	do not publicly disclose to any third-party any information related to the vulnerability before coordination with WWZ
 
-
+---
 ##**Coordinated Disclosure**
 
 WWZ follows a coordinated vulnerability disclosure process.
@@ -49,7 +47,7 @@ WWZ aims to remediate vulnerabilities within a reasonable timeframe.
 
 Public disclosure must be coordinated with WWZ.
 
-
+---
 ##**Safe Harbor**
 
 If you act in good faith and follow this policy:
@@ -61,12 +59,12 @@ If you act in good faith and follow this policy:
 
 This safe harbor applies only to activities conducted within the scope and rules of this policy.
 
-
+---
 ##**Rewards**
 
 WWZ does not operate a public bug bounty program. However, we value responsible disclosure and may acknowledge valid reports at our discretion.
 
-
+---
 ##**Communication**
 
 Please allow reasonable time for investigation and remediation before any public disclosure. We encourage cooperative and transparent communication throughout the process.
