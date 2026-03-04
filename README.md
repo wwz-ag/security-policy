@@ -1,27 +1,25 @@
-#**Responsible Disclosure Policy**
+# **Responsible Disclosure Policy**
 
 WWZ AG is committed to maintaining the security and reliability of its services and infrastructure. If you believe you have discovered a security vulnerability, we encourage you to report it to us responsibly.
 
-##**Contact:** security@wwz.ch
-
-##Please include where possible:
+ **Contact:** security@wwz.ch
+ 
+## Please include where possible:
 - affected service, system or URL
 -	description of the vulnerability
 -	reproduction steps
 -	potential impact
 -	optional proof-of-concept
----
-##**Scope**
 
+## **Scope**
 This policy applies to systems and services operated by WWZ AG and its affiliated companies, including:
 -	WWZ Telekom AG
 -	WWZ Energie AG
 -	Telecom Cablenet AG
-
 Testing systems of customers, partners or third parties is not permitted.
----
-##**Expected Conduct**
 
+
+## **Expected Conduct**
 When conducting research, please:
 -	only perform tests necessary to demonstrate the vulnerability
 -	do not access, modify, delete, copy, retain, or exfiltrate any data; if any data becomes accessible unintentionally, stop immediately and report it to WWZ without storing or sharing it
@@ -32,9 +30,8 @@ When conducting research, please:
 -	do not conduct automated large-scale scanning or the like
 -	do not publicly disclose to any third-party any information related to the vulnerability before coordination with WWZ
 
----
-##**Coordinated Disclosure**
 
+## **Coordinated Disclosure**
 WWZ follows a coordinated vulnerability disclosure process.
 
 After receiving your report:
@@ -47,9 +44,7 @@ WWZ aims to remediate vulnerabilities within a reasonable timeframe.
 
 Public disclosure must be coordinated with WWZ.
 
----
-##**Safe Harbor**
-
+## **Safe Harbor**
 If you act in good faith and follow this policy:
 -	WWZ will not initiate legal action against you
 -	WWZ will not pursue claims under applicable computer misuse laws
@@ -59,13 +54,9 @@ If you act in good faith and follow this policy:
 
 This safe harbor applies only to activities conducted within the scope and rules of this policy.
 
----
-##**Rewards**
-
+## **Rewards**
 WWZ does not operate a public bug bounty program. However, we value responsible disclosure and may acknowledge valid reports at our discretion.
 
----
-##**Communication**
-
+## **Communication**
 Please allow reasonable time for investigation and remediation before any public disclosure. We encourage cooperative and transparent communication throughout the process.
 
